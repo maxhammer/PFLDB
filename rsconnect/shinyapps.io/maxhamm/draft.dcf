@@ -1,0 +1,13 @@
+name: draft
+title: draft
+username:
+account: maxhamm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4799506
+bundleId: 5105752
+url: https://maxhamm.shinyapps.io/draft/
+when: 1633429495.72306
+lastSyncTime: 1633429495.72308
+asMultiple: FALSE
+asStatic: FALSE

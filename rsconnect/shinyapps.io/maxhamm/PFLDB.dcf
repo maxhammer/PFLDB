@@ -1,0 +1,13 @@
+name: PFLDB
+title: PFLDB
+username:
+account: maxhamm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4508364
+bundleId: 5108438
+url: https://maxhamm.shinyapps.io/PFLDB/
+when: 1633488582.84103
+lastSyncTime: 1633488582.84106
+asMultiple: FALSE
+asStatic: FALSE
